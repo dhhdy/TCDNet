@@ -19,7 +19,7 @@ EVA-02: https://github.com/baaivision/EVA/tree/master/EVA-02/asuka
 
 ConvNext: https://github.com/facebookresearch/ConvNeXt
 
-Thanks for their outstanding works!
+Thanks for their excellent works!
 
 
 
