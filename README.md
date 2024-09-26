@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/235402ad-50b4-494f-8a15-1174e111763b)# TCDNet: Double-Branch Feature Fusion for Lung Nodule Segmentation via Combining Transformer and CNN
+# TCDNet: Double-Branch Feature Fusion for Lung Nodule Segmentation via Combining Transformer and CNN
 
 .<div align=center><img src="https://github.com/user-attachments/assets/64fcdb75-8419-45c9-8444-b4a655419652" width="600" height="450" /></div>
 
