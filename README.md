@@ -13,10 +13,11 @@ We propose a novel network structure named TCDNet, which adopts Transformer and 
 * torch>=2.0.0, python==3.9
 
 # Pretrained
-the pretrained weight of the dual-branch extractor can be find here
+the pretrained weight of the dual-branch extractor can be found here
 EVA-02: https://github.com/baaivision/EVA/tree/master/EVA-02/asuka
 
 ConvNext: https://github.com/facebookresearch/ConvNeXt
+
 Thanks for their outstanding works!
 
 
