@@ -31,7 +31,7 @@ class EVA(EVAVisionTransformer):
         return x
 
 
-# modify img,pt_hw 就 ok
+# modify img,pt_hw
 @register_model
 def eva02_base_patch14_xattn_fusedLN_NaiveSwiGLU_subln_RoPE(dim=768, size=224, pretrained=False, is_pe=False, **kwargs):
     ## patch_size=16, pt_hw_seq_len=14
