@@ -12,7 +12,9 @@ We propose a novel network structure named TCDNet, which adopts Transformer and 
 * CUDA + cuDNN (Tested on CUDA 11.8 and cuDNN 8.7)
 * torch>=2.0.0, python==3.9
 
-
+# Pretrained
+EVA-02: https://github.com/baaivision/EVA/tree/master/EVA-02/asuka
+ConvNext: https://github.com/facebookresearch/ConvNeXt
 
 
 
