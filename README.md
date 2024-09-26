@@ -3,9 +3,7 @@
 .<div align=center><img src="https://github.com/user-attachments/assets/64fcdb75-8419-45c9-8444-b4a655419652" width="600" height="450" /></div>
 
 # Overview
-•	We propose a novel network structure named TCDNet, which adopts Transformer and CNN as its Dual-branch feature extractor to progressively sample the multi-scale channel semantic information while capturing both global and local information. 
-•	 Two innovative modules named Shallow Fusion (SF) and Feature Aggregation (FA) and an improved upsampling structure called Dense Connection Based on Element-wise Addition (DCEA) are proposed to address the problem caused by the imbalance feature weight information of the CT images. 
-•	The proposed method achieves promising results in the LIDC-IDRI and in-house datasets.
+We propose a novel network structure named TCDNet, which adopts Transformer and CNN as its Dual-branch feature extractor to progressively sample the multi-scale channel semantic information while capturing both global and local information. Two innovative modules named Shallow Fusion (SF) and Feature Aggregation (FA) and an improved upsampling structure called Dense Connection Based on Element-wise Addition (DCEA) are proposed to address the problem caused by the imbalance feature weight information of the CT images. The proposed method achieves promising results in the LIDC-IDRI and in-house datasets.
 
 
 
