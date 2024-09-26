@@ -9,8 +9,8 @@ We propose a novel network structure named TCDNet, which adopts Transformer and 
 **1. Prerequisites**
 * Linux (Tested on Ubuntu 18.04)
 * NVIDIA GPU (Tested on single NVIDIA Tesla A40 GPU)
-* CUDA + cuDNN (Tested on CUDA 10.1 and cuDNN 7.5. CPU mode and CUDA without CuDNN may work with minimal modification, but untested.)
-* torch>=1.1.0
+* CUDA + cuDNN (Tested on CUDA 11.8 and cuDNN 8.7)
+* torch>=2.0.0, python==3.9
 
 
 
